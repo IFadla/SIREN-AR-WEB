@@ -1,0 +1,13 @@
+@import './base.css';
+
+#app {
+  max-width: 500px;
+  margin: 0 auto;
+  min-height: 100vh;
+  height: 100vh;
+  background: var(--c-white-2);
+
+  font-weight: normal;
+  border: 2px solid var(--c-white-1);
+  position: relative;
+}
