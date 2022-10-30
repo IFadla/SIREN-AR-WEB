@@ -5,19 +5,19 @@
 <template>
 	<section class="marker">
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Bencana Alam/1-Banjir-Rompi-Pelampung.jpg" alt="marker">
+			<img src="@/assets/Marker/Bencana-Alam/1-Banjir-Rompi-Pelampung.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Bencana Alam/2-Banjir-Power-Bank.jpg" alt="marker">
+			<img src="@/assets/Marker/Bencana-Alam/2-Banjir-Power-Bank.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Bencana Alam/3-Banjir-Botol-Air.jpg" alt="marker">
+			<img src="@/assets/Marker/Bencana-Alam/3-Banjir-Botol-Air.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Bencana Alam/4-Banjir-Genset.jpg" alt="marker">
+			<img src="@/assets/Marker/Bencana-Alam/4-Banjir-Genset.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Bencana Alam/5-Banjir-Lampu-Darurat.jpg" alt="marker">
+			<img src="@/assets/Marker/Bencana-Alam/5-Banjir-Lampu-Darurat.jpg" alt="marker">
 		</div>
 	</section>
 </template>

@@ -5,19 +5,19 @@
 <template>
 	<section class="marker">
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Kegagalan Teknis/1-Kebakaran-APAR.jpg" alt="marker">
+			<img src="@/assets/Marker/Kegagalan-Teknis/1-Kebakaran-APAR.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Kegagalan Teknis/2-Kebakaran-Pendeteksi-Asap.jpg" alt="marker">
+			<img src="@/assets/Marker/Kegagalan-Teknis/2-Kebakaran-Pendeteksi-Asap.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Kegagalan Teknis/3-Kebakaran-Alarm-Kebakaran.jpg" alt="marker">
+			<img src="@/assets/Marker/Kegagalan-Teknis/3-Kebakaran-Alarm-Kebakaran.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Kegagalan Teknis/4-Kebakaran-Alat-Penyiram.jpg" alt="marker">
+			<img src="@/assets/Marker/Kegagalan-Teknis/4-Kebakaran-Alat-Penyiram.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Kegagalan Teknis/5-Kebakaran-Keran-Kebakaran.jpg" alt="marker">
+			<img src="@/assets/Marker/Kegagalan-Teknis/5-Kebakaran-Keran-Kebakaran.jpg" alt="marker">
 		</div>
 	</section>
 </template>

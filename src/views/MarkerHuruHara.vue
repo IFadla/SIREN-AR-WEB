@@ -5,19 +5,19 @@
 <template>
 	<section class="marker">
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Huru Hara/1-Kerusuhan-Pertolongan-Pertama.jpg" alt="marker">
+			<img src="@/assets/Marker/Huru-Hara/1-Kerusuhan-Pertolongan-Pertama.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Huru Hara/2-Kerusuhan-Semprotan-Merica.jpg" alt="marker">
+			<img src="@/assets/Marker/Huru-Hara/2-Kerusuhan-Semprotan-Merica.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Huru Hara/3-Kerusuhan-Kawat-Silet.jpg" alt="marker">
+			<img src="@/assets/Marker/Huru-Hara/3-Kerusuhan-Kawat-Silet.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Huru Hara/4-Kerusuhan-Pistol-Setrum.jpg" alt="marker">
+			<img src="@/assets/Marker/Huru-Hara/4-Kerusuhan-Pistol-Setrum.jpg" alt="marker">
 		</div>
 		<div class="marker-item">
-			<img src="@/assets/images/Marker/Huru Hara/5-Kerusuhan-Tongkat-Pemukul.jpg" alt="marker">
+			<img src="@/assets/Marker/Huru-Hara/5-Kerusuhan-Tongkat-Pemukul.jpg" alt="marker">
 		</div>
 	</section>
 </template>
