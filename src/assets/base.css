@@ -44,5 +44,5 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* border: 1px solid blue; */
-  overflow: hidden;
+  /* overflow: hidden; */
 }
